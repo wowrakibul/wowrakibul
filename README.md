@@ -37,7 +37,7 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=)
 
 ---
 Wanna have chat with me? Join my tech communities!
