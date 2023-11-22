@@ -40,7 +40,7 @@ Frontend Engineer & Web Developer. UX/UI & Visual Product Designer.
 <br><br>
 
 # 👨‍💻 Expertise With 
-![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=)
 
 ## Repo Live Sites 
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
