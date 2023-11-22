@@ -1,8 +1,9 @@
-# Hi, I'm Wow Rakibul (💻💖☕)
+# Hi, I'm Wow Rakibul. Fast Web Developer!
 
 [![A Quote image of @wowrakibul02' that describe He will become billionaire](https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/329718162_724575695775335_4246413314782977656_n.png?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFjvK6XdFujDn0qVapbD1AHEhqvEW7HQtwSGq8RbsdC3K3rmPO2GqmMWW75Hc7n0nd5oahZKRFGP-LMEcNUyAWp&_nc_ohc=ePg-Nq3Hlf4AX90cGzN&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfBIltAIrTlImjclvfGkNbsxja6GKriYP0YZKd6tJhD4RQ&oe=6562FA10)](https://facebook.com/wowrakibul02)
 
 <!-- social links -->
+### Follow on Social Medias
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourPage)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YourUsername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
@@ -19,9 +20,10 @@
 
 
 <!-- auto typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7712D&random=true&width=450&lines=%F0%9F%91%8B+Hello!+I'm+Wow+Rakibul+;%E2%9C%8D+Poet+%26+Creative+Author+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%E2%9E%95+UX%2FUI+%26+Visual+Product+Designer;%F0%9F%92%9E+Psychologist+%26+HCI+Specialist+;%F0%9F%8E%A8+Digital+Artist+(Painting+%E2%9D%A4+Drawing);%F0%9F%97%A3+Motivational+Speaker+;%F0%9F%92%BB+Web+Developer;%E2%9E%95+Frontend+Engineer+;HCI+%26+HCD+Specialist;+User+Interface+Designer+;+User+Experience+Designer+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%F0%9F%93%B7+Nature+%26+Product+Photographer;%F0%9F%93%BA+Content+Creator;%F0%9F%A7%A0+Innovator+%26+Entrepreneur)](https://git.io/typing-svg)
+### Head Biography
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7712D&random=true&width=450&lines=%F0%9F%91%8B+Hello!+I'm+Wow+Rakibul+;%E2%9C%8D+Poet+%26+Creative+Author+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%E2%9E%95+UX%2FUI+%26+Visual+Product+Designer;%F0%9F%92%9E+Psychologist+%26+HCI+Specialist+;%F0%9F%8E%A8+Digital+Artist+(Painting+%E2%9D%A4+Drawing);%F0%9F%97%A3+Motivational+Speaker+;%F0%9F%92%BB+Web+Developer;%E2%9E%95+Frontend+Engineer+;HCI+%26+HCD+Specialist;+User+Interface+Designer+;+User+Experience+Designer+;%F0%9F%92%BB+Web+Developer+%26+Frontend+Engineer;%F0%9F%93%B7+Nature+%26+Product+Photographer;%F0%9F%93%BA+Content+Creator;%F0%9F%A7%A0+Innovator+%26+Entrepreneur)
 
-
+#### Description
 Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
