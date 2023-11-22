@@ -82,7 +82,14 @@ Frontend Engineer & Web Developer. UX/UI & Visual Product Designer.
 
 <!-- push some talks/blogs link here (idea for later) -->
 
+<<<<<<< HEAD
 <br>
+=======
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=)
+>>>>>>> 8a4c88c1aacdefd21a6516e702dd748294b614ec
 
 ---
 <br>
