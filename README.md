@@ -87,10 +87,7 @@ Frontend Engineer & Web Developer. UX/UI & Visual Product Designer.
 ---
 <br>
 
-<center>
-
 Made ❤ by [Wow Rakibul](https://wowrakibul02.io/explore) 
-</center>
 
 
 
