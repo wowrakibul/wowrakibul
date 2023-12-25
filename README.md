@@ -1,6 +1,6 @@
 # Hi, I'm Wow Rakibul. Fast Web Developer!
 
-[![A Quote image of @wowrakibul02' that describe He will become billionaire](https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/329718162_724575695775335_4246413314782977656_n.png)](https://facebook.com/wowrakibul02)
+[![A Quote image of @wowrakibul02' that describe He will become billionaire](asset/image/quote.png)](https://facebook.com/wowrakibul02)
 
 
 ### Open to Take New Project
