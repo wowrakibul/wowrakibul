@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wow Rakibul - Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #2563eb;
+            --secondary: #3b82f6;
+            --dark: #1e293b;
+            --light: #f8fafc;
+            --accent: #e879f9;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background-color: var(--light);
+        }
+
+        /* Smooth scroll behavior */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Navigation */
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .nav-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--dark);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            padding: 0 2rem;
+            background: linear-gradient(45deg, #f8fafc, #eff6ff);
+        }
+
+        .hero-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: fadeIn 1s ease-out;
+        }
+
+        .hero p {
+            font-size: 1.5rem;
+            color: #64748b;
+            margin-bottom: 2rem;
+            animation: slideUp 1s ease-out;
+        }
+
+        /* Projects Section */
+        .projects {
+            max-width: 1200px;
+            margin: 4rem auto;
+            padding: 2rem;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .project-card {
+            background: white;
+            border-radius: 1rem;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        }
+
+        .project-image {
+            width: 100%;
+            height: 200px;
+            background: #ddd;
+            object-fit: cover;
+        }
+
+        .project-content {
+            padding: 1.5rem;
+        }
+
+        /* Skills Section */
+        .skills {
+            background: white;
+            padding: 4rem 2rem;
+        }
+
+        .skills-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            gap: 2rem;
+            justify-items: center;
+        }
+
+        .skill-item {
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .skill-item:hover {
+            transform: scale(1.1);
+        }
+
+        .skill-icon {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 1rem;
+        }
+
+        /* Contact Section */
+        .contact {
+            max-width: 1200px;
+            margin: 4rem auto;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .social-link {
+            padding: 0.8rem 1.5rem;
+            border-radius: 0.5rem;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: transform 0.3s;
+        }
+
+        .social-link:hover {
+            transform: translateY(-3px);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideUp {
+            from { 
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to { 
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 3rem;
+            }
+
+            .hero p {
+                font-size: 1.2rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--dark);
+            color: white;
+        }
+
+        .footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <h2>Wow Rakibul</h2>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#projects">Projects</a>
+                <a href="#skills">Skills</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero" id="about">
+        <div class="hero-content">
+            <h1>Frontend Engineer & Web Developer</h1>
+            <p>Lead UX/UI Designer @Panze ✦ Crafting digital experiences that matter</p>
+            <div class="social-links">
+                <a href="#" class="social-link" style="background-color: #0077B5;">LinkedIn</a>
+                <a href="#" class="social-link" style="background-color: #1DA1F2;">Twitter</a>
+                <a href="#" class="social-link" style="background-color: #333;">GitHub</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2 class="section-title">Featured Projects</h2>
+        <div class="project-grid">
+            <article class="project-card">
+                <img src="/api/placeholder/400/200" alt="Project 1" class="project-image">
+                <div class="project-content">
+                    <h3>Seen Design System</h3>
+                    <p>A comprehensive design system built for scalability and consistency.</p>
+                </div>
+            </article>
+            <article class="project-card">
+                <img src="/api/placeholder/400/200" alt="Project 2" class="project-image">
+                <div class="project-content">
+                    <h3>Wireframe UI Kit</h3>
+                    <p>V2.4 - A modular UI kit for rapid prototyping and design.</p>
+                </div>
+            </article>
+            <article class="project-card">
+                <img src="/api/placeholder/400/200" alt="Project 3" class="project-image">
+                <div class="project-content">
+                    <h3>Photography Portfolio</h3>
+                    <p>A showcase of nature and product photography work.</p>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section class="skills" id="skills">
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=figma" alt="Figma" class="skill-icon">
+                <p>Figma</p>
+            </div>
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=html" alt="HTML" class="skill-icon">
+                <p>HTML</p>
+            </div>
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=css" alt="CSS" class="skill-icon">
+                <p>CSS</p>
+            </div>
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" class="skill-icon">
+                <p>JavaScript</p>
+            </div>
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" class="skill-icon">
+                <p>Node.js</p>
+            </div>
+            <div class="skill-item">
+                <img src="https://skillicons.dev/icons?i=git" alt="Git" class="skill-icon">
+                <p>Git</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2 class="section-title">Let's Connect</h2>
+        <p>Open for freelance projects and collaborations</p>
+        <div class="social-links">
+            <a href="#" class="social-link" style="background-color: #E4405F;">Instagram</a>
+            <a href="#" class="social-link" style="background-color: #1877f2;">Facebook</a>
+            <a href="#" class="social-link" style="background-color: #73bb44;">Upwork</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        Made with ❤ by <a href="https://wowrakibul02.io/explore">Wow Rakibul</a>
+    </footer>
+</body>
+</html>
