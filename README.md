@@ -20,17 +20,11 @@
 
 
 #### Description
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
-
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
-
-Frontend Engineer & Web Developer. UX/UI & Visual Product Designer. 
+Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design System & Wireframe UI Kit (V2.4 Still Building) ✦ Creative Author ✦ Psychologist
 
 ---
 
+<!--
 #### Learn UX/UI Design
 [![YouTube](https://img.shields.io/badge/YouTube/@20mindesigns-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/YourChannel)
 [![Spotify](https://img.shields.io/badge/Learning_channel_on_discord-7877f2?style=for-the-badge&logo=discord&logoColor=white)](https://open.spotify.com/user/YourUsername)
@@ -38,11 +32,13 @@ Frontend Engineer & Web Developer. UX/UI & Visual Product Designer.
 [![Spotify](https://img.shields.io/badge/figma-5F14A9?style=for-the-badge&logo=figma&logoColor=white)](https://open.spotify.com/user/YourUsername)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YourUsername)
 
-<br><br>
+<br><be>
+-->
 
 # 👨‍💻 Expertise With 
 ![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=)
 
+<!--
 ## Repo Live Sites 
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
@@ -50,7 +46,7 @@ Frontend Engineer & Web Developer. UX/UI & Visual Product Designer.
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
 - Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-
+-->
 ---
 
 #### Case Studies & UI Shots
