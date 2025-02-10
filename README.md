@@ -6,12 +6,8 @@
 
 
 ### Open to Take New Project
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
-[![Spotify](https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![Facebook](https://img.shields.io/badge/messenger-E114D3?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/YourPage)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourPage)
-[![Facebook](https://img.shields.io/badge/upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.facebook.com/YourPage)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wowrakibul02)
+[![Spotify](https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wa8AMnzuHadS)
 
 ---
 
@@ -37,7 +33,7 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 -->
 
 # 👨‍💻 Expertise With 
-![skills](https://skillicons.dev/icons?i=figma,html,css,js,nodejs,md,git,vscode&theme=)
+![skills](https://skillicons.dev/icons?i=figma,html,css,js,py,ts,nodejs,md,git,vscode&theme=)
 
 <!--
 ## Repo Live Sites 
@@ -51,34 +47,31 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 ---
 
 #### Case Studies & UI Shots
-[![Spotify](https://img.shields.io/badge/dribbble-FEBBF3?style=for-the-badge&logo=dribbble&logoColor=black)](https://open.spotify.com/user/YourUsername)
-[![Spotify](https://img.shields.io/badge/behance-1877e1?style=for-the-badge&logo=behance&logoColor=white)](https://open.spotify.com/user/YourUsername)
+[![Spotify](https://img.shields.io/badge/dribbble-FEBBF3?style=for-the-badge&logo=dribbble&logoColor=black)](https://dribbble.com/wowrakibul)
+[![Spotify](https://img.shields.io/badge/behance-1877e1?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/wowrakibul)
 
 
 #### Follow Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourPage)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wowrakibul)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wowrakibul)
 
-#### Open-Sourcce Works
-[![Spotify](https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YourUsername)
-
+#### Open-Source Works
+[![Spotify](https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wowrakibul)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wowrakibul)
+[![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/wowrakibul)
 
 
-#### Hobbiest Photographer
-[![Spotify](https://img.shields.io/badge/pexels-0AA3A6?style=for-the-badge&logo=pexels&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![Spotify](https://img.shields.io/badge/unsplash-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![Spotify](https://img.shields.io/badge/flickr-FF00A1?style=for-the-badge&logo=flickr&logoColor=white)](https://open.spotify.com/user/YourUsername)
+
+#### Hobbyist Photographer
+[![Spotify](https://img.shields.io/badge/pexels-0AA3A6?style=for-the-badge&logo=pexels&logoColor=white)](https://www.pexels.com/@wow-rakibul-97607642/)
+[![Spotify](https://img.shields.io/badge/unsplash-000?style=for-the-badge&logo=unsplash&logoColor=white)](https://unsplash.com/@wowrakibul)
 
 #### Work Time Music Love 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/YourChannel)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zerwmknst6hgtma3w3aykqdnhm)
 
 
 
-<!-- push some talks/blogs link here (idea for later) -->
+<!-- push some talks/blogs links here (idea for later) -->
 
 <br>
 
