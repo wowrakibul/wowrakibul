@@ -1,4 +1,4 @@
-# Hi, I'm Wow Rakibul. Fast Web Developer!
+# Hello dude, I'm Rakibul. Lead UX/UI Designer & Fast Web Developer!
 
 <!--
 [![A Quote image of @wowrakibul02' that describe He will become billionaire](https://raw.githubusercontent.com/wowrakibul02/wowrakibul02/main/assets/quote.png)](https://facebook.com/wowrakibul02)
