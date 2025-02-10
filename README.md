@@ -6,6 +6,8 @@
 
 <a href=#><img src="contributions.svg"></a>
 
+![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=wowrakibul&show_icons=true&theme=gruvbox) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowrakibul&layout=compact&theme=gruvbox)]()
 
 
 ### Open to Take New Project
