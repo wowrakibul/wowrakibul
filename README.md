@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowrakibul&layout=compact&theme=gruvbox)]()
 
 
-### Open to Take New Project
+## Open to Take New Project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wowrakibul02)
 [![Spotify](https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wa8AMnzuHadS)
 
@@ -36,7 +36,7 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 <br><be>
 -->
 
-# 👨‍💻 Expertise With 
+#### 👨‍💻 Expertise With 
 ![skills](https://skillicons.dev/icons?i=figma,html,css,js,py,ts,nodejs,md,git,vscode&theme=)
 
 <!--
