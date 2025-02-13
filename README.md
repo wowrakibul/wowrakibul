@@ -73,14 +73,27 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 #### Work Time Music Love 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zerwmknst6hgtma3w3aykqdnhm)
 
-
-
 <!-- push some talks/blogs links here (idea for later) -->
+
+<div align="center">
+
+# 🌐 Global Time Display
+
+```ascii
+┌─────────────────────────────────────────────┐
+│              🌍 World Clock Hub             │
+├─────────────────────────────────────────────┤
+│ 🇺🇸 New York (My Time) │ 14:05:09 EST        │
+│ 🇬🇧 London             │ 19:05:09 GMT        │
+│ 🇯🇵 Tokyo              │ 04:05:09 JST (+1d)  │
+│ 🇦🇺 Sydney             │ 06:05:09 AEDT (+1d) │
+│ 🇧🇩 Dhaka              │ 01:05:09 BST (+1d)  │
+└─────────────────────────────────────────────┘
+````
 
 <br>
 
 ---
-<br>
 
 Made ❤ by [Wow Rakibul](https://wowrakibul02.io/explore) 
 
