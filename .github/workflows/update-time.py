@@ -1,3 +1,4 @@
+"""
 from datetime import datetime
 import pytz
 import re
@@ -41,3 +42,5 @@ def update_readme():
 
 if __name__ == "__main__":
     update_readme()
+
+"""
