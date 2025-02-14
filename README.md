@@ -1,9 +1,5 @@
 # Hello dude, I'm Rakibul. Lead UX/UI Designer & Fast Web Developer!
 
-<!--
-[![A Quote image of @wowrakibul02' that describe He will become billionaire](https://raw.githubusercontent.com/wowrakibul02/wowrakibul02/main/assets/quote.png)](https://facebook.com/wowrakibul02)
--->
-
 <a href=#><img src="contributions.svg"></a>
 
 ![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=wowrakibul&show_icons=true&theme=gruvbox) 
@@ -25,29 +21,9 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 
 ---
 
-<!--
-#### Learn UX/UI Design
-[![YouTube](https://img.shields.io/badge/YouTube/@20mindesigns-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/YourChannel)
-[![Spotify](https://img.shields.io/badge/Learning_channel_on_discord-7877f2?style=for-the-badge&logo=discord&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![Facebook](https://img.shields.io/badge/groups/World_Figma_Group-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YourPage)
-[![Spotify](https://img.shields.io/badge/figma-5F14A9?style=for-the-badge&logo=figma&logoColor=white)](https://open.spotify.com/user/YourUsername)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YourUsername)
-
-<br><be>
--->
-
 #### 👨‍💻 Expertise With 
 ![skills](https://skillicons.dev/icons?i=figma,html,css,js,py,ts,nodejs,md,git,vscode&theme=)
 
-<!--
-## Repo Live Sites 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
-- Explore : [https://wowrakibul02.github.io/explore 🔗](https://wowrakibul02.github.io/explore) 
--->
 ---
 
 #### Case Studies & UI Shots
@@ -73,7 +49,6 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 #### Work Time Music Love 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zerwmknst6hgtma3w3aykqdnhm)
 
-<!-- push some talks/blogs links here (idea for later) -->
 
 <div align="center">
 
@@ -95,8 +70,10 @@ Frontend Engineer & Web Developer. Lead UX/UI Designer @Panze ✦ Seen Design Sy
 <br>
 
 ---
+
 <div align="center">
-Made ❤ by [Wow Rakibul](https://wowrakibul02.io/explore) 
+  
+Made ❤ by [Wow Rakibul](https://x.com/wowrakibul) 
 
 
 
