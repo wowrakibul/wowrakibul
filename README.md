@@ -1,9 +1,12 @@
+![Profile Views](https://komarev.com/ghpvc/?username=wowrakibul&style=flat-square)
+
 # Hello dude, I'm Rakibul. Lead UX/UI Designer & Fast Web Developer!
 
 <a href=#><img src="contributions.svg"></a>
 
 ![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=wowrakibul&show_icons=true&theme=gruvbox) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowrakibul&layout=compact&theme=gruvbox)]()
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wowrakibul&theme=dark)
 
 
 ## Open to Take New Project
