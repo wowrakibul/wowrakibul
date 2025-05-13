@@ -12,6 +12,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowrakibul&layout=compact&theme=gruvbox)]()
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wowrakibul&theme=dark)
 
+🏅 Badge Earned:
+
+<img src="https://github.com/user-attachments/assets/f1bd8b44-2171-4295-b473-591af7da413d" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/70e33a71-6e7d-4193-99b5-71b02fda3d1b" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
 
 ## Open to Take New Project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wowrakibul02)
